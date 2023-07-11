@@ -1,0 +1,24 @@
+①AWS Certified Cloud Practitioner
+言わずもがな、初心者ならまずこれが基礎。
+コンプリートしないなら、SAAからの取得でもよい。
+
+②AWS Certified Solutions Architect – Associate
+AWSをこれから使っていくなら絶対にとってほしい資格
+出題範囲は広いが基礎的な考え方が身につくので、まずは取得することをおすすめします。
+
+③AWS Certified SysOps Administrator - Associate、
+　AWS Certified AWS Certified Developer - Associate
+とりあえず、アソシエイト3冠を目指しましょう。
+DevOps的な考え方や、Codeシリーズ、サーバレス、コンテナ、DynamoDB等に関する知識が身につきます。
+
+④AWS Certified DevOps Engineer - Professional
+個人的にDeveloperの勉強しちゃえば取れるんじゃないかくらいの難易度、Developer、SysOpsを取得した勢いで
+取ってしまえば良いと思います。
+
+⑤AWS Certified Security - Specialty
+SAPの前に受けることがおすすめ。SAPと出題範囲が一部かぶっているので、
+ここで勉強しておくと良いかと思います。
+
+⑥AWS Certified Solutions Architect - Professional
+一番難しいと言われる、SAPですが、ここまで取得できたのであれば、
+きっと大丈夫！
